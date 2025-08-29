@@ -1,0 +1,7 @@
+# OPTIONAL: Use only if you want to trigger Cloud Build directly.
+# If you intend to test PlatformNEX's Cloud Build setup generator,
+# delete this file before pushing the repo.
+#
+# This example builds and pushes an image to Artifact Registry and 
+# (optionally) deploys to Cloud Run if substitutions are provided.
+
